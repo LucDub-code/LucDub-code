@@ -8,7 +8,7 @@ Développeur web junior avec un parcours atypique, j'ai eu plusieurs vies dans u
 - L'intelligence artificielle, les LLM, les modèles de génération d'images
 - La création d'interfaces utilisateur intuitives et accessibles
 
-## 🌱 J'apprends actuellement...
+## J'apprends actuellement...
 - React et ses hooks
 - Tailwind CSS
 - Les bonnes pratiques de développement
@@ -19,10 +19,10 @@ Travailleur social ➡️ Technicien son ➡️ Accompagnateur d'entrepreneurs �
 
 La synergie entre mon parcours professionnel diversifié et ma maîtrise des technologies web me permet d'apporter un regard unique aux projets de transformation numérique.
 
-## 💞️ Je cherche à collaborer sur...
+## Je cherche à collaborer sur...
 - Des applications web innovantes
 - Des outils qui simplifient la vie des utilisateurs
 
 ## 📫 Comment me contacter
-- [Portfolio](en construction) (à venir)
+- [Portfolio](en construction)
 - [LinkedIn](bientôt)
