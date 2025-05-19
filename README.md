@@ -24,5 +24,5 @@ La synergie entre mon parcours professionnel diversifié et ma maîtrise des tec
 - Des outils qui simplifient la vie des utilisateurs
 
 ## 📫 Comment me contacter
-- [Portfolio](en construction)
+- [Portfolio](https://lucasdubeau.dev/)
 - [LinkedIn](bientôt)
