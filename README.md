@@ -29,4 +29,4 @@ Missions freelance et contrats entreprise.
 
 - [Portfolio](https://lucasdubeau.dev/)
 - [X](https://x.com/LucDub_code)
-- [LinkedIn] (https://www.linkedin.com/in/lucdub-code/)
+- [LinkedIn](https://www.linkedin.com/in/lucdub-code/)
