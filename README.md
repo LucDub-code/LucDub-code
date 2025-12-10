@@ -13,7 +13,7 @@ Code lisible et maintenable. Méthodes agiles avec cycles courts. Solutions adap
 ## Spécialisations
 
 **Web Development**  
-React, Node.js, Express, MongoDB, API REST, TypeScript
+Next.js, React, Node.js, Express, MongoDB, API REST, TypeScript
 
 **IA Integration**  
 LLM, agents de code, workflows d'automatisation, Vercel AI
@@ -29,4 +29,4 @@ Missions freelance et contrats entreprise.
 
 - [Portfolio](https://lucasdubeau.dev/)
 - [X](https://x.com/LucDub_code)
-- LinkedIn (bientôt)
+- [LinkedIn] (https://www.linkedin.com/in/lucdub-code/)
