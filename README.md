@@ -10,16 +10,16 @@ Je suis un développeur web avec un parcours atypique, passionné par l'innovati
 
 Code lisible et maintenable. Méthodes agiles avec cycles courts. Solutions adaptées aux besoins clients avec focus SEO et accessibilité.
 
-## Spécialisations
+## Compétences principales
 
-**Web Development**  
+**Web Development**
 Next.js, React, Node.js, Express, MongoDB, API REST, TypeScript
 
-**IA Integration**  
-LLM, agents de code, workflows d'automatisation, Vercel AI
-
-**Frontend**  
+**Frontend**
 Tailwind CSS, Sass, Motion, GSAP, Shadcn UI
+
+**Autres compétences**
+Intégration de fonctionnalités IA (LLM, workflows d'automatisation), Git, GitHub, Figma
 
 ## Disponible
 
