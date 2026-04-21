@@ -26,10 +26,10 @@ Full-stack web developer passionate about technological innovation and artificia
 
 ## Skills
 
-**Frontend:** JavaScript, TypeScript, React, Vue.js, Tailwind CSS, Shadcn UI, Sass  
-**Backend / Full-Stack:** Next.js, Node.js, Express, Python, REST APIs, MongoDB, PostgreSQL  
-**Web:** responsive design, accessibility, SEO, performance, maintainability  
-**Tools:** Git, GitHub, Figma
+**Frontend =>** JavaScript, TypeScript, React, Vue.js, Tailwind CSS, Shadcn UI, Sass  
+**Backend / Full-Stack =>** Next.js, Node.js, Express, Python, REST APIs, MongoDB, PostgreSQL  
+**Web =>** responsive design, accessibility, SEO, performance, maintainability  
+**Tools =>** Git, GitHub, Figma
 
 ## Contact
 
