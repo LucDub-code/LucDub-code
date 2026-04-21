@@ -34,5 +34,5 @@ Full-stack web developer passionate about technological innovation and artificia
 ## Contact
 
 - [Portfolio](https://lucasdubeau.dev/)
-- [X](https://x.com/LucDub_code)
 - [LinkedIn](https://www.linkedin.com/in/lucdub-code/)
+- [X](https://x.com/LucDub_code)
