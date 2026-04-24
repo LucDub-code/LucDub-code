@@ -21,9 +21,8 @@ Full-stack web developer passionate about technological innovation and artificia
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) 
 
-## 📊 GitHub Stats:
+##
 ![](https://github-readme-stats.vercel.app/api?username=LucDub-Code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=stars,prs,issues,contribs&show_icons=true&hide_rank=true)<br/>
-![](https://streak-stats.demolab.com/?user=LucDub-Code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucDub-Code&theme=dark&hide_border=false&layout=compact&hide=html,scss,dockerfile)
 
 ## 🌐 Socials:
