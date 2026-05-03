@@ -23,7 +23,7 @@ Full-stack web developer passionate about technological innovation and artificia
 
 ##
 ![](https://github-readme-stats-five-xi-90.vercel.app/api?username=LucDub-Code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=stars,prs,issues,contribs&show_icons=true&hide_rank=true)<br/>
-![](https://github-readme-stats-five-xi-90.vercel.app/api/top-langs/?username=LucDub-Code&theme=dark&hide_border=false&layout=compact&hide=html,scss,dockerfile)
+![](https://github-readme-stats-five-xi-90.vercel.app/api/top-langs/?username=LucDub-Code&theme=dark&hide_border=false&layout=compact&hide=html,scss,dockerfile,shell)
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logoColor=white)](https://lucasdubeau.dev)<br/>
