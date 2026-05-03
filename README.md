@@ -22,8 +22,8 @@ Full-stack web developer passionate about technological innovation and artificia
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) 
 
 ##
-![](https://github-readme-stats.vercel.app/api?username=LucDub-Code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=stars,prs,issues,contribs&show_icons=true&hide_rank=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucDub-Code&theme=dark&hide_border=false&layout=compact&hide=html,scss,dockerfile)
+![](https://github-readme-stats-five-xi-90.vercel.app/api?username=LucDub-Code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide=stars,prs,issues,contribs&show_icons=true&hide_rank=true)<br/>
+![](https://github-readme-stats-five-xi-90.vercel.app/api/top-langs/?username=LucDub-Code&theme=dark&hide_border=false&layout=compact&hide=html,scss,dockerfile)
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logoColor=white)](https://lucasdubeau.dev)<br/>
